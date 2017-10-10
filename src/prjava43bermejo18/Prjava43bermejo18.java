@@ -27,10 +27,10 @@ public class Prjava43bermejo18 extends Frame
         
       addWindowListener(this);
         
- 
-      setTitle("prjava43bermejo18");  
-      setSize(250, 100);       
-      setVisible(true);         
+        setTitle("nova finestra prjava43bermejo18");
+ 	setSize(450, 100);      
+        setVisible(true);  
+        
    }
  
    
