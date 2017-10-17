@@ -1,7 +1,7 @@
 package prjava43bermejo18;
 import java.awt.*;        
-import java.awt.event.*;
-import java.net.*;
+import java.awt.event.*;  
+import java.io.*;
  
 
 public class Prjava43bermejo18 extends Frame
